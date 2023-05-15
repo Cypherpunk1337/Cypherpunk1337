@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align="right">
+  <img height="200" src="https://media.tenor.com/DSzDgevby3AAAAAC/ziak-ziak-ft-trafiquinte-brownie.gif"  />
+</div>
 
-<!--
-**Cypherpunk1337/Cypherpunk1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="right">Genuine cult in bullet</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h4 align="left">Languages</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+</div>
+
+###
+
+<p align="left">KMDF/UMDF, game hacking</p>
+
+###
